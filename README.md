@@ -4,7 +4,7 @@
 
 ![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 
-![LiterAlura](https://github.com/matiasnm/aluraJavaChallenge2/blob/main/README.png)
+![LiterAlura](https://github.com/matiasnm/literAlura/blob/main/README.png)
 
 ### **Descripción General**
 Literalura es una aplicación para la gestión de libros diseñada para integrarse con la [API GutenDex](https://gutendex.com/books/). Permite a los usuarios buscar libros por título o autor, gestionar una base de datos de libros y autores, y explorar libros por idioma o autor. La aplicación ofrece una interfaz interactiva de línea de comandos (CLI) con salidas visualmente atractivas para una experiencia fluida.
